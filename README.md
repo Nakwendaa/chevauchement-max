@@ -1,8 +1,8 @@
 # chevauchement-max
 
-Projet Java.
-Algorithme d'alignement global entre deux séquences. Assemblage de fragments. Obtenir un alignement entre un facteur de X′ de X et Y , tel que le score de cet alignement soit le meilleur parmi tous les facteurs de X.
+Java project. 
 
+Algorithm of global alignment between two sequences. Assembly of fragments. Obtain an alignment between a X′ factor of X and Y, such that the score of this alignment is the best among all the factors of X.
 
 ## Usage
 
